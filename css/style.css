@@ -1,0 +1,64 @@
+.menu{
+
+	background-color: white;
+}	
+
+.center{
+
+	text-align: center;
+	}
+
+.profile{
+	width: 220px;
+	height: 220px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: silver;
+	border-width: 0.5rem;
+}
+
+.home{
+
+	background-image: url(../imagens/lampada.jpg); 
+	background-size: cover;
+}
+
+.title{
+
+	font-weight: bold;
+}
+
+.footer{
+
+	border-top: 1px solid #333;
+	padding-top: 6px;
+}
+
+#contato{
+
+	background-color: #d1ccc0;
+	padding: 1rem;
+
+}
+
+.dev{
+
+	font-weight: lighter;
+	font-style: italic;
+
+}
+
+.conheca-me{
+
+color: white;
+
+}
+
+
+
+
+.conheca-me:hover{
+	color: #007bff;
+	background-color: #fff;
+
+}
