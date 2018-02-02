@@ -62,3 +62,11 @@ color: white;
 	background-color: #fff;
 
 }
+
+.carousel-content{
+
+	height: : 400px;
+	overflow: hidden;
+	background-color:  #ccc;
+
+}
